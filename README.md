@@ -90,7 +90,7 @@ My portfolio focuses on practical engineering problems, reproducible analysis, a
         <li>Automated assessment workflows</li>
       </ul>
       <p><em>Status: Update with verified implementation progress.</em></p>
-      <a href="projects/cellpulse/README.md">Explore CellPulse →</a>
+      <a href="https://github.com/Mostafa1Hamza/CellPulse">Explore CellPulse →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Telecom RAG Assistant</h3>
