@@ -249,7 +249,7 @@ My goal is to turn telecom engineering knowledge into reliable analytical method
   <a href="https://www.linkedin.com/in/mostafa-hamza-4lte3umts2gsm/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER">
+  <a href="https://wa.me/01001849862">
     <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
