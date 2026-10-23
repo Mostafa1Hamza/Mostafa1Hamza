@@ -8,11 +8,13 @@
 
 ## About Me
 
-I am a telecommunications engineer specializing in **Radio Access Network (RAN) optimization, network performance analytics, and engineering automation**.
+I am a Telecommunications Engineer with **6 years of experience in Radio Access Network (RAN) engineering**, having built my career from the ground up — starting as an RF Drive Test Engineer and progressing through RF Post-Processing to my current role as a RAN Optimization Engineer.
 
-My work combines hands-on experience with Ericsson and Huawei RAN environments, telecom KPI analysis, SQL development, and Python-based engineering tools to investigate network performance issues, automate repetitive workflows, and turn network data into actionable insights.
+Throughout this journey, I have developed hands-on expertise in **Ericsson and Huawei RAN technologies**, covering network performance optimization, mobility management, coverage and capacity enhancement, KPI analytics, and root cause analysis across 2G, 3G, LTE, and 5G NR environments.
 
-I am particularly interested in bridging the gap between **telecom engineering, software development, data analytics, and applied AI**.
+Beyond traditional network optimization, I combine my telecom expertise with **Python programming, SQL development, and data analytics** to automate engineering workflows, build analytical tools, and transform complex network data into actionable insights.
+
+My professional focus is on bridging the gap between **telecom engineering and software development** — creating practical, data-driven solutions that improve network performance, operational efficiency, and engineering decision-making.
 
 - **RAN Engineering:** LTE/NR optimization, mobility management, coverage, capacity, and quality troubleshooting.
 - **Telecom Analytics:** Ericsson ENIQ, SQL queries, KPI assessment, and performance trend analysis.
