@@ -29,8 +29,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://i.ibb.co/fdbg44L3/linedin.jpg" />][instagram]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://i.ibb.co/j9wRP5pG/whatapp.png" />][Whatsapp]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://i.ibb.co/fdbg44L3/linedin.jpg" />][linkedin]
 
 [Whatsapp]: https://wa.me/01001849862
 [linkedin]: https://www.linkedin.com/in/mostafa-hamza-4lte3umts2gsm
