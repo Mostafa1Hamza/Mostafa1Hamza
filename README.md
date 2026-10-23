@@ -245,10 +245,10 @@ My goal is to turn telecom engineering knowledge into reliable analytical method
 ## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/mostafa-hamza-4lte3umts2gsm/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Mostafa1Hamza">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
