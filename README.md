@@ -244,14 +244,16 @@ My goal is to turn telecom engineering knowledge into reliable analytical method
 
 ## Let's Connect
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-hamza-4lte3umts2gsm/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Mostafa1Hamza">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://wa.me/YOUR_PHONE_NUMBER">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
+
 
 <p align="center">
   <i>Telecom Engineering · Data Analytics · Automation · Applied AI</i>
