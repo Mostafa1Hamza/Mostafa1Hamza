@@ -107,14 +107,10 @@ My portfolio focuses on practical engineering problems, reproducible analysis, a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Python Automation Toolkit</h3>
+      <h3>📡 Huawei RAN Configuration Audit & Golden Baseline Engine </h3>
       <p><strong>Engineering Workflow Automation</strong></p>
-      Python utilities designed to reduce repetitive telecom engineering tasks and improve data handling.
       <ul>
-        <li>Data processing and validation</li>
-        <li>Site information and GPS utilities</li>
-        <li>Google Earth KML generation</li>
-        <li>Workflow reporting and visualization</li>
+        An automated configuration audit and standardization platform for Huawei 4G/5G networks. This engine ingests raw Managed Object (MO) exports, clusters sites by RF topology, and statistically calculates the Golden Baseline to audit cell parameters at scale, enforce network consistency, and flag non-compliant configurations.
       </ul>
       <a href="projects/python-automation/README.md">Explore Automation →</a>
     </td>
