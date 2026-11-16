@@ -115,16 +115,12 @@ My portfolio focuses on practical engineering problems, reproducible analysis, a
       <a href="https://github.com/Mostafa1Hamza/Huawei-RAN-Configuration-Audit">Explore Automation →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 ENIQ & SQL Analytics</h3>
-      <p><strong>Network Performance Intelligence</strong></p>
-      SQL patterns and analytical methods for telecom KPI investigation and performance monitoring.
+      <h3>📊 CRUX</h3>
+      <p><strong>Advanced RF Analytics & Traffic Intelligence Engine</strong></p>
       <ul>
-        <li>KPI calculations and aggregation</li>
-        <li>Time-series analysis</li>
-        <li>Data-quality validation</li>
-        <li>Query efficiency and scalability</li>
+       An enterprise-grade network optimization platform that fuses physics-aware geospatial modeling with live mobility data. CRUX autonomously discovers optimal cell neighbors, verifies them through real-world handover traffic, and utilizes continuous Timing Advance (TA) tracking to instantly detect coverage anomalies, cross-sector swaps, and network footprint degradation with deterministic precision.
       </ul>
-      <a href="projects/eniq-sql-analytics/README.md">Explore SQL Analytics →</a>
+      <a href="https://github.com/Mostafa1Hamza/CRUX">Explore CRUX →</a>
     </td>
   </tr>
 </table>
